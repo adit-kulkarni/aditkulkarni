@@ -29,5 +29,5 @@ Now applying the same discipline to AI products.
 
 ## Links
 
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- [Twitter](https://twitter.com/YOUR_TWITTER)
+- [LinkedIn](https://www.linkedin.com/in/aditkulkarni)
+- [Instagram](https://instagram.com/buildingwithadit)
