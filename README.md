@@ -14,7 +14,7 @@ I like to wear multiple hats, jump in with technical, strategic, and communicati
 * Built an automated prompt optimization loop using an LLM judge to continuously improve tutor behavior. 
 * Launched organically on Instagram and TikTok—120 beta installs with zero paid acquisition.
 
-**Stack:** Python, FastAPI, Swift, OpenAI, Deepgram, Cartesia
+**Stack:** Python, FastAPI, Swift, LiveKit, Sentry
 
 ### [Mantaflow](https://mantaflow.ai)
 Langgraph-powered agentic email marketing campaigns for shopify brands.
