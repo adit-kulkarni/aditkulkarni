@@ -30,8 +30,11 @@ Solo AI Engineer working with 2 non-technical cofounders
 **Stack:** Python, LangGraph, FastAPI
 
 ### Pause
-Top 5 finish in RevenueCat hackathon. Built and shipped to testflight in 4 days.
-Voice-first AI life coach for busy professionals who don't have time to journal or meditate. Talk through what's on your mind, and Pause helps you prioritize, plan, and actually follow through. Five specialized agents handle different life domains—career, family, finances, health—so context stays tight and responses stay fast. Hands-free operation means you can use it while commuting, cooking, or walking. Session notes and tasks persist across conversations.
+* Top 5 finish in RevenueCat hackathon. Built and shipped to testflight in 4 days.
+* Voice-first AI life coach for busy professionals who don't have time to journal or meditate. 
+* Talk through what's on your mind, and Pause helps you prioritize, plan, and actually follow through. 
+* Five specialized agents handle different life domains—career, family, finances, health—so context stays tight and responses stay fast.
+* Hands-free operation means you can use it while commuting, cooking, or walking. Session notes and tasks persist across conversations.
 
 **Stack:** Python, LiveKit Agents, FastAPI, Swift, Supabase, RevenueCat
 
