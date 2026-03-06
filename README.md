@@ -7,7 +7,12 @@ I like to wear multiple hats, jump in with technical, strategic, and communicati
 ## What I'm Building
 
 ### [SaraSpeak](https://saraspeak.io)
-Voice-first AI language tutor that makes practice feel like real conversation. Sub-1-second response latency so you're not waiting around—just talking. NLP pipelines analyze your speech in real-time to detect weak spots and personalize each session. The tutor remembers your interests, tracks your mistakes, and adapts difficulty on the fly. Built an automated prompt optimization loop using an LLM judge to continuously improve tutor behavior. Launched organically on Instagram and TikTok—110 beta installs with zero paid acquisition.
+* Voice-first AI language tutor that makes practice feel like real conversation. 
+* Sub-1-second response latency so you're not waiting around—just talking. 
+* NLP pipelines analyze your speech in real-time to detect weak spots and personalize each session. 
+* The tutor remembers your interests, tracks your mistakes, and adapts difficulty on the fly. 
+* Built an automated prompt optimization loop using an LLM judge to continuously improve tutor behavior. 
+* Launched organically on Instagram and TikTok—120 beta installs with zero paid acquisition.
 
 **Stack:** Python, FastAPI, Swift, OpenAI, Deepgram, Cartesia
 
