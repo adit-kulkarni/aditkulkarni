@@ -15,9 +15,17 @@ Voice-first AI life coach for busy professionals who don't have time to journal 
 **Stack:** Python, LiveKit Agents, FastAPI, Swift, Supabase, RevenueCat
 
 ### [Mantaflow](https://mantaflow.ai)
-LangChain-powered email marketing automation. Built it to learn the stack, ended up learning something more important: AI without distribution is just a side project. Good lesson.
+Langgraph-powered agentic email marketing campaigns for shopify brands.
+Solo AI Engineer working with 2 non-technical cofounders
+* Extracts "Brand DNA" from shopify website
+* Suggests and triages marketing campaign requirements
+* Builds email campaign using Unlayer API
+* Exports to drag and drop editor for final touchups
+* Pushed to Klaviyo for distribution
+* Piloted with 4 brands
+* Out-competed by Klaviyo (the company we were hoping to sell to)
 
-**Stack:** Python, LangChain, FastAPI
+**Stack:** Python, LangGraph, FastAPI
 
 ---
 
