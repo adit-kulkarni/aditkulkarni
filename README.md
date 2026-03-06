@@ -29,7 +29,7 @@ Solo AI Engineer working with 2 non-technical cofounders
 
 **Stack:** Python, LangGraph, FastAPI
 
-### Pause
+### [Pause](https://devpost.com/software/ai-coaching-app-rpn0vw)
 * Top 5 finish in RevenueCat hackathon. Built and shipped to testflight in 4 days.
 * Voice-first AI life coach for busy professionals who don't have time to journal or meditate. 
 * Talk through what's on your mind, and Pause helps you prioritize, plan, and actually follow through. 
